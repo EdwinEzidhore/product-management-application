@@ -1,0 +1,44 @@
+
+:root{
+  --primary-button : #ffc400;
+}
+
+.input_filter{
+  padding: 10px 16px;
+  background-color: #FFF;
+  min-width: 300px;
+  min-height: 55px;
+
+}
+
+button{
+  cursor: pointer;
+}
+.butn{
+  padding: 10px 16px;
+  background-color: #FFF;
+  border-radius: 16px;
+  min-width: 100px;
+  min-height: 55px;
+  cursor: pointer;
+}
+
+.butn_primary{
+  background-color: var(--primary-button);
+  color: #FFF;
+}
+
+.badge{
+  background-color: var(--primary-button);
+  border-radius: 100%;
+  color: #FFF;
+  height: 20px;
+  width: 20px;
+}
+
+.sidebar-inner{
+  min-width: 280px;
+  position: sticky !important;
+  top: 60px;
+  height: 100vh;
+}
