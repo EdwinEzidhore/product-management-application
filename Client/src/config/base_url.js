@@ -1,1 +1,1 @@
-export const base_url = "http://localhost:3636";
+export const base_url = "https://product-management-application-22ko.onrender.com";
